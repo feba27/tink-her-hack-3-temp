@@ -6,15 +6,15 @@
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [Feba K Babu] - [Baselios Mathews II College of Engineering,Sasthamcotta,Kollam]
+- Member 2: [Sherin D Shibu] - [Baselios Mathews II College of Engineering,Sasthamcotta,Kollam]
+  
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+petvista.vercel.app
 
 ### Project Description
-[2-3 lines about what your project does]
+Petvista 
 
 ### The Problem statement
 [What ridiculous problem are you solving?]
@@ -25,10 +25,10 @@
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- HTML,CSS,JS
 - [Frameworks used]
 - [Libraries used]
-- [Tools used]
+- github,chatgpt
 
 For Hardware:
 - [List main components]
